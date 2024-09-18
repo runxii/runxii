@@ -5,7 +5,10 @@
 - Natural language generator based on PaddlePaddle.
 - Personal website.
 - Compiler which compiles C into Sysy.
-- Online examination registration system (groupwork).
+- Online examination registration system (group work).
+### Enthusiasm
+- UI/UX design
+- Technology appliance in avant-garde art exhibitions.
 <!---
 runxii/runxii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
